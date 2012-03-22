@@ -1,0 +1,74 @@
+.lf_head_bar {
+  background: #f00;
+}  
+
+.lf_comment_count {
+  background: #900;
+}  
+
+.lf_listener_count {
+}
+
+.lf_avatar {
+  border: 1px solid #333;
+}
+
+.lf_login_bar {
+}
+
+.lf_user_avatar {
+} 
+
+.lf_user_nick {
+} 
+
+/*The Text Box*/
+.mceLayout {
+} 
+
+/*The Posted Comments Background*/
+#lf_comments {
+}
+
+.lf_comment_container {
+  background: #eee;
+}
+
+.lf_action_bar {
+}
+
+/*Individual Elements*/
+.lf_comment_user {
+}
+
+.lf_comment_user_rating {
+}
+
+.lf_main_avatar {
+}
+
+.lf_comment_date {
+}
+
+.lf_share {
+}
+
+.lf_flag {
+}
+
+.lf_mod_options {
+}
+
+.lf_flag_box {
+}
+ 
+ 
+/*This section allows you to determine the hover states for the various text elements*/
+#livefyre .lf_comment_container .lf_comment .lf_comment_footer .lf_admin_bar a {}
+#livefyre .lf_comment_container .lf_comment .lf_comment_footer .lf_flag {}
+#livefyre .lf_comment_container:hover .lf_comment .lf_comment_footer .lf_flag {}
+#livefyre .lf_comment_container .lf_comment .lf_comment_footer .lf_comment_date {}
+#livefyre .lf_comment_container .lf_comment .lf_comment_footer .lf_share {}
+#livefyre .lf_comment_container .lf_comment .lf_comment_footer .lf_share:hover {}
+#livefyre .lf_comment_container .lf_comment .lf_comment_footer .lf_mod_options {}
+#livefyre .lf_comment_container:hover .lf_comment .lf_comment_footer .lf_mod_options a:hover {}
